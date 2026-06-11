@@ -28,6 +28,7 @@ A web-based Language Translation Tool built using Python, Flask, and Google Tran
 CodeAlpha_LanguageTranslation/
 ├── app.py
 ├── requirements.txt
+├── screenshots/
 └── templates/
     └── index.html
 ```
@@ -59,13 +60,20 @@ http://127.0.0.1:5001
 
 ---
 
+## 📸 Screenshots
+
+![Translation Tool](screenshots/Screenshot%202026-06-11%20at%205.56.47AM.png)
+![Translation Tool 2](screenshots/Screenshot%202026-06-11%20at%205.57.25AM.png)
+
+---
+
 ## 👨‍💻 Author
-**Kush Khandelwal**  
-AI Intern @ CodeAlpha  
+**Kush Khandelwal**
+AI Intern @ CodeAlpha
 [GitHub](https://github.com/kushkk28khandelwal)
 
 ---
 
 ## 🏢 About CodeAlpha
-CodeAlpha is a leading software development company dedicated to driving innovation across emerging technologies.  
+CodeAlpha is a leading software development company dedicated to driving innovation across emerging technologies.
 🌐 [www.codealpha.tech](https://www.codealpha.tech)

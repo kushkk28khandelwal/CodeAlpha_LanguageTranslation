@@ -60,7 +60,7 @@ http://127.0.0.1:5001
 ---
 
 ## 👨‍💻 Author
-**Luv Khandelwal**  
+**Kush Khandelwal**  
 AI Intern @ CodeAlpha  
 [GitHub](https://github.com/kushkk28khandelwal)
 
